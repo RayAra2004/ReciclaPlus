@@ -52,9 +52,9 @@ Exemplos:<br>
 ![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/1a568304-0601-4536-bcbf-b2def4d1ce03)
 
 #### 3.3 Validação da Ideia.
-a) Link do formulário desenvolvido
-b) Link para Relatório/Apresentação de resultados obtidos
-
+a) [Link do formulário desenvolvido](https://drive.google.com/file/d/1jUiEKDf0761iWvIaIyuKtdCvYRHQjsuE/view?usp=sharing)
+b) [Link para Relatório/Apresentação de resultados obtidos
+](https://drive.google.com/file/d/1jUiEKDf0761iWvIaIyuKtdCvYRHQjsuE/view?usp=sharing)
 ### 4.Personas e Histórias de usuário<br>
 <img src="https://neilpatel.com/wp-content/uploads/2019/07/exemplo-carlos.png" Personas src="https://neilpatel.com/wp-content/uploads/2019/07/exemplo-carlos.png" width="500" height="500" /> <br>
 a) inclusão dos Persons desenvolvidos pelo grupo<br>
