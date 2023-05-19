@@ -71,7 +71,11 @@ Neste ponto a codificação não e necessária, somente as ideias de telas devem
 
 #### 5.1 PROTÓTIPO DO SISTEMA MOBILE
 
+link: https://quant-ux.com/#/test.html?h=a2aa10aBPyxN6ylcMAPhkFw6lyq5yhZu8xV0oreWDnXPHSN8EwX1w2Dl8Dti&ln=en
+
 #### 5.2 PROTÓTIPO DO SISTEMA WEB
+
+link: https://quant-ux.com/#/test.html?h=a2aa10acVZG0YoT3CXzyCFh4gpuaOy1mZ3QS6ED6IolQmMViBgNVGvr29CUa&ln=en
 
 #### 5.3 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM OS SISTEMA WEB/MOBILE PROPOSTOS?
     a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
