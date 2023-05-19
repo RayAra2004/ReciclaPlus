@@ -38,8 +38,10 @@ seus materiais.
 a) inclusão do PMC desenvolvido pelo grupo <br>
 
 #### 3.1. EAP - Estrutura Analítica do Projeto
-a) Incluír imagem da EAP 
-b) Dicinário da EAP 
+a)![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/eacc1511-85ba-4e11-b14b-31bd40d88569)
+b) ![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/40287d4f-83e3-4eba-9ad0-13bd98c40d19)
+![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/fb733000-6473-4e48-94ce-35ffaeb55555)
+
 
 #### 3.2. Requisitos funcionais e não funcionais
 Incluir informações de: Identificador , Descrição e Prioridade
