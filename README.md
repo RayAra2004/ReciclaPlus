@@ -31,7 +31,7 @@ seus materiais.
  
  
 ### 3.PMC<br>
-![Exemplo de PMC](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/PMC.jpg?raw=true "PMC")
+![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/66fadb5b-da84-4852-bd50-3f36323416eb)
 
 
 
