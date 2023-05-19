@@ -5,9 +5,9 @@ Trabalho desenvolvido durante a disciplina de Banco de Dados do Integrado
 
 ### 1. COMPONENTES<br>
 Integrantes do grupo<br>
-primeiro_componente_do_grupo:cesbarbosa2005@gmail.com<br>
-segundo_componente_do_grupo:dara.botecchia22@gmail.com<br>
-terceiro_componente_do_grupo:raynan.araujo.ifes@gmail.com<br>
+primeiro_componente_do_grupo: cesbarbosa2005@gmail.com<br>
+segundo_componente_do_grupo: dara.botecchia22@gmail.com<br>
+terceiro_componente_do_grupo: raynan.araujo.ifes@gmail.com<br>
 quarto_componente_do_grupo: kaua271203@gmail.com<br>
 
 ### 2.MINIMUNDO<br>
