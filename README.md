@@ -46,8 +46,10 @@ b) ![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/40287d4f-
 #### 3.2. Requisitos funcionais e não funcionais
 Incluir informações de: Identificador , Descrição e Prioridade
 Exemplos:<br>
-a) <img src="https://raw.githubusercontent.com/discproint/template_projeto_integrador/main/arquivos/requisitos_funcionais.png" width="350" height="100" /> <br>
-b) <img src="https://raw.githubusercontent.com/discproint/template_projeto_integrador/main/arquivos/requisitos_nao_funcionais.png" width="350" height="190" /> <br>
+a) ![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/44b61883-9ffb-4d03-b388-7462c2a2b566)
+![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/60e81b49-863d-47df-aca3-e2d34fa30923)
+b) ![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/ba5aedb5-9413-465f-9189-8b56b1cc72d2)
+![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/1a568304-0601-4536-bcbf-b2def4d1ce03)
 
 #### 3.3 Validação da Ideia.
 a) Link do formulário desenvolvido
