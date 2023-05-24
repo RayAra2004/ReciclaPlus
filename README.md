@@ -116,8 +116,7 @@ Link para o sistema web: http://reciclamais.great-site.net/index.html?i=1
         (modelos devem obrigatoriamente estar em conformidade de rastreabilidade)
 
 ### 9	MODELO LÓGICO<br>
-        ![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/0bbc2f1c-c4d6-47d6-a639-f0addc332648)
-
+      <img src="[https://neilpatel.com/wp-content/uploads/2019/07/exemplo-carlos.png](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/0bbc2f1c-c4d6-47d6-a639-f0addc332648)"/>
 ### 10	MODELO FÍSICO<br>
         a) inclusão das instruções de criacão das estruturas em SQL/DDL 
         /* modelo_logico_16_05: */
