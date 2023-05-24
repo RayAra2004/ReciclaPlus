@@ -56,16 +56,11 @@ a) [Link do formulário desenvolvido](https://drive.google.com/file/d/1jUiEKDf07
 b) [Link para Relatório/Apresentação de resultados obtidos
 ](https://drive.google.com/file/d/1jUiEKDf0761iWvIaIyuKtdCvYRHQjsuE/view?usp=sharing)
 ### 4.Personas e Histórias de usuário<br>
+a) inclusão dos Persons desenvolvidos pelo grupo<br>
+<br>
 ![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/81b0f1c6-ab0f-4300-8564-ce2890fa805a)<br>
 ![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/8a329548-6cb6-4821-a317-5f0628b77899)<br>
 ![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/899c0dcb-3c93-4913-9009-62b2ea53712a)<br>
-
-
-a) inclusão dos Persons desenvolvidos pelo grupo<br>
-<br>
-<img src="https://miro.medium.com/max/1400/1*r5GVnOvqpMdxnGUYNRXqbg.png" UserStory src="https://miro.medium.com/max/1400/1*r5GVnOvqpMdxnGUYNRXqbg.png" width="500" height="300" /> <br>
-b) inclusão das Histórias de usuário desenvolvidas pelo grupo
-<br>
 
 
 ### 5. PROTÓTIPOS DO SISTEMA<br>
