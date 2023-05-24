@@ -115,9 +115,7 @@ link: https://quant-ux.com/#/test.html?h=a2aa10acVZG0YoT3CXzyCFh4gpuaOy1mZ3QS6ED
         (modelos devem obrigatoriamente estar em conformidade de rastreabilidade)
 
 ### 9	MODELO LÓGICO<br>
-        a) inclusão do esquema lógico do banco de dados
-        b) verificação de correspondencia com o modelo conceitual 
-        (não serão aceitos modelos que não estejam em conformidade)
+        ![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/cc69bcac-7143-41fe-8c5e-4140a51c5e3e)
 
 ### 10	MODELO FÍSICO<br>
         a) inclusão das instruções de criacão das estruturas em SQL/DDL 
