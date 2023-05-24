@@ -76,6 +76,7 @@ link: https://quant-ux.com/#/test.html?h=a2aa10aBPyxN6ylcMAPhkFw6lyq5yhZu8xV0ore
 #### 5.2 PROTÓTIPO DO SISTEMA WEB
 
 link: https://quant-ux.com/#/test.html?h=a2aa10acVZG0YoT3CXzyCFh4gpuaOy1mZ3QS6ED6IolQmMViBgNVGvr29CUa&ln=en
+Link para o sistema web: http://reciclamais.great-site.net/index.html?i=1
 
 #### 5.3 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM OS SISTEMA WEB/MOBILE PROPOSTOS?
     a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
