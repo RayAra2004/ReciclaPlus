@@ -115,7 +115,7 @@ link: https://quant-ux.com/#/test.html?h=a2aa10acVZG0YoT3CXzyCFh4gpuaOy1mZ3QS6ED
         (modelos devem obrigatoriamente estar em conformidade de rastreabilidade)
 
 ### 9	MODELO LÓGICO<br>
-        ![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/cc69bcac-7143-41fe-8c5e-4140a51c5e3e)
+        ![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/0bbc2f1c-c4d6-47d6-a639-f0addc332648)
 
 ### 10	MODELO FÍSICO<br>
         a) inclusão das instruções de criacão das estruturas em SQL/DDL 
