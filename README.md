@@ -99,7 +99,7 @@ link: https://quant-ux.com/#/test.html?h=a2aa10acVZG0YoT3CXzyCFh4gpuaOy1mZ3QS6ED
         Criar o esquema de forma a garantir a redução de informação redundante, possibilidade de valores null, 
         e tuplas falsas (Aplicar os conceitos de normalização abordados).   
         
-![Alt text](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/concept_sample.png?raw=true "Modelo Conceitual")
+![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/056c9665-3b22-48bf-b62f-e54da8c9c852)
       
     
 #### 7 Descrição dos dados 
