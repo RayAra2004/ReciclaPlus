@@ -124,7 +124,7 @@ Link para o sistema web: http://reciclamais.great-site.net/index.html?i=1
 ### 10	MODELO FÍSICO<br>
         a) inclusão das instruções de criacão das estruturas em SQL/DDL 
         /* modelo_logico_16_05: */
-      Link: https://docs.google.com/document/d/1LhbxFkk0Kng6zOIHjVV_rVJudmxA1Djdt1Lnq0Vd1I8/edit
+   Link: https://docs.google.com/document/d/1LhbxFkk0Kng6zOIHjVV_rVJudmxA1Djdt1Lnq0Vd1I8/edit
  
         
        
