@@ -1,14 +1,14 @@
-# TRABALHO DE PI:  Título do Trabalho
+# TRABALHO DE PI:  Recicla +
 Trabalho desenvolvido durante a disciplina de Banco de Dados do Integrado
 
 # Sumário
 
 ### 1. COMPONENTES<br>
 Integrantes do grupo<br>
-primeiro_componente_do_grupo: cesbarbosa2005@gmail.com<br>
-segundo_componente_do_grupo: dara.botecchia22@gmail.com<br>
-terceiro_componente_do_grupo: raynan.araujo.ifes@gmail.com<br>
-quarto_componente_do_grupo: kaua271203@gmail.com<br>
+Carlos Eduardo Sousa Barbosa: cesbarbosa2005@gmail.com<br>
+Dara Botecchia: dara.botecchia22@gmail.com<br>
+Raynan Araujo da Silva: raynan.araujo.ifes@gmail.com<br>
+Kauã Mateus de Barros Terra: kaua271203@gmail.com<br>
 
 ### 2.MINIMUNDO<br>
 Descrever o mini-mundo! (Não deve ser maior do que 30 linhas, se necessário resumir para justar)
