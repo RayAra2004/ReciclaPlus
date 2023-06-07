@@ -106,7 +106,7 @@ Link para o sistema web: http://reciclamais.great-site.net/index.html?i=1
     [objeto]: [descrição do objeto]
     
    
-    CADASTRA: Campo para realizar cadastro dos usuários 
+CADASTRA: Campo para realizar cadastro dos usuários 
 
 VALIDA: Campo para validação de cadastro do usuário  
 
@@ -121,7 +121,6 @@ PONTO_COLETA: Tabela que armazena os dados dos pontos de coleta cadastrados
 POSSUI: Os campos com o nome (possui) estão fazendo ligamento em determinadas tabelas
 
 INSTITUICAO: Tabela onde estão os dados das empresas cadastradas 
-
 
 ENDERECO: Estão armazenados os endereços das empresas cadastradas  
 
