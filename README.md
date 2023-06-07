@@ -107,37 +107,48 @@ Link para o sistema web: http://reciclamais.great-site.net/index.html?i=1
     [objeto]: [descrição do objeto]
     
    
-CADASTRA: Campo para realizar cadastro dos usuários 
+CADASTRA:  Campo para realizar cadastro dos usuários 
 
 VALIDA: Campo para validação de cadastro do usuário  
 
 USUARIO: Tabela que armazena as informações relativas ao usuário
 
 PERTENCE: faz uma ligação entre USUARIO e TIPO_USUARIO
-
-TIPO_USUARIO: Tabela que armazena informações do tipo de usuário, como por exemplo: Pessoa (Pessoa física) e Instituição (Pessoa jurídica)
  
+TIPO_USUARIO: Tabela que armazena informações do tipo de usuário, como por exemplo: USUARIO_PESSOA_FISICA (Pessoa física) e USUARIO_INSTITUIÇÃO (Pessoa jurídica)
+
+USUARIO_INSTITUICAO: Tabela onde estão os dados das empresas cadastradas 
+
+REALIZA: Faz uma ligação entre USUARIO_INSTITUICAO e TIPO_ASSINATURA
+
+TIPO_ASSINATURA: Tabela onde estão armazenados as informações da assinatura que a empresa cadastrada resolveu comprar 
+
+COLETA: Faz uma ligação entre USUARIO_INSTITUICAO e MATERIAL_RECICLAVEL
+
+MATERIAL_RECICLAVEL: Nesta tabela estão as informações do material que a pessoa física deseja reciclar 
+
+PERTENECE: Liga a tebela MATERIAL_RECICLAVEL e CATEGORIA_DE_MATERIAIS_RECICLADOS
+
+USUARIO_PESSOA_FISICA: Tabela com os dados da pessoa física cadastradas no sistema 
+
+PUBLICA: Liga a tabela USUARIOA_PESSOA_FISICA e MATERIAL_RECICLAVEL
+
 PONTO_COLETA: Tabela que armazena os dados dos pontos de coleta cadastrados 
 
 POSSUI: Os campos com o nome (possui) estão fazendo ligamento em determinadas tabelas
 
-INSTITUICAO: Tabela onde estão os dados das empresas cadastradas 
-
 ENDERECO: Estão armazenados os endereços das empresas cadastradas  
 
-MATERIAIS_RECICLADOS: Estão armazenados nesta tabela os tipos de materiais reciclados por determinado ponto de coleta 
+RECICLA:  Faz uma ligação entre PONTO_COLETA e CATEGORIA_DE_MATERIAIS_RECICLADOS
 
-RECILA: Faz uma ligação entre PONTO_COLETA e MATERIAIS_RECILADOS 
+CATEGORIAS_DE_MATERIAIS_RECICLADOS: Tabela que contém as categorias de materiais reciclados  
 
-LEVA: Faz uma ligação entre a tabela PESSOA e MATERIAIS_RECILADOS
+REALIZA: FAZ UMA LIGAÇÃO ENTRE USUARIOA_PESSOA_FISICA e COMENTARIOS
 
-PESSOA: Possui os dados das pessoas cadastradas no sistema  
+ASSOCIA_SE: Liga a tabela PONTO_COLETA e COMENTARIOS
 
-ENVIA: Faz uma ligação entre PESSOA e PONTO_COLETA
+COMENTARIOS: Contém os comentários feitos pelos usuários em relação ao ponto de coleta
 
-REALIZA: Faz uma ligação entre PESSOA e AVALIACAO 
-
-AVALIACAO: Contém os resultados das avaliações feitas pelos usuários em relação ao ponto de coleta
 
 
 ### 8	RASTREABILIDADE DOS ARTEFATOS<br>
