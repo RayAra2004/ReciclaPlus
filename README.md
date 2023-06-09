@@ -46,8 +46,8 @@ b) ![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/40287d4f-
 #### 3.2. Requisitos funcionais e não funcionais
 Incluir informações de: Identificador , Descrição e Prioridade
 Exemplos:<br>
-![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/44b61883-9ffb-4d03-b388-7462c2a2b566)
-![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/60e81b49-863d-47df-aca3-e2d34fa30923)
+![funcionais_pt1](https://github.com/RayAra2004/ReciclaPlus/assets/91473437/9f8f96b3-70f0-46bd-8825-b7af5eb9b28d)
+![funcionais_pt2](https://github.com/RayAra2004/ReciclaPlus/assets/91473437/4482725d-35a7-4994-97ca-35bcfd7aacda)
 ![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/ba5aedb5-9413-465f-9189-8b56b1cc72d2)
 ![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/1a568304-0601-4536-bcbf-b2def4d1ce03)
 
