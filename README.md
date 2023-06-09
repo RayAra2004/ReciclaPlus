@@ -165,9 +165,7 @@ COMENTARIOS: Contém os comentários feitos pelos usuários em relação ao pont
 
 
 ### 8	RASTREABILIDADE DOS ARTEFATOS<br>
-        a) Historia de usuários vs protótipo (Histórias de Usuário e em qual tela do protótipo aquela HU está sendo realizada).
-        b) Protótipo vs Modelo conceitual (Histórias de Usuário e em quais tabelas aquele dado está sendo registrado).
-        (modelos devem obrigatoriamente estar em conformidade de rastreabilidade)
+        a) e b) https://docs.google.com/document/d/1NccQS08sKOWXJPJPuOjOPRjDuYeJGT84k9XivkAhGNk/edit?usp=sharing
 
 ### 9	MODELO LÓGICO<br>
       <img src="[https://neilpatel.com/wp-content/uploads/2019/07/exemplo-carlos.png](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/0bbc2f1c-c4d6-47d6-a639-f0addc332648)"/>
