@@ -63,12 +63,9 @@ a) inclusão dos Persons desenvolvidos pelo grupo<br>
 ![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/899c0dcb-3c93-4913-9009-62b2ea53712a)<br>
 
 b) inclusão das Histórias de usuário desenvolvidas pelo grupo
-
-Como um usuário preocupado com o meio ambiente, eu gostaria de encontrar pontos de coleta de reciclagem próximos à minha localização, de acordo com as minhas preferências de materiais a serem reciclados. Dessa forma, poderei descartar de forma correta os resíduos e contribuir para a preservação do meio ambiente.
-
-Como um usuário consciente, desejo aprender a reciclar corretamente diversos tipos de materiais em casa. Gostaria de acessar um recurso no aplicativo que ofereça instruções detalhadas sobre como reciclar diferentes tipos de materiais, como papel, plástico, vidro e metal. Assim, poderei adotar práticas sustentáveis no meu dia a dia e reduzir o impacto ambiental.
-
-Como um usuário engajado na reciclagem, gostaria de utilizar o aplicativo para facilitar a troca de materiais recicláveis entre usuários. Desejo poder postar uma carga de materiais que tenho disponível para doação e permitir que outros usuários interessados entrem em contato para agendar a coleta. Dessa forma, posso contribuir para a reutilização de materiais e promover uma economia circular.
+![image](https://github.com/RayAra2004/ReciclaPlus/assets/91471783/39a15b16-4590-4dc2-9510-608ca6f7416d)
+![image](https://github.com/RayAra2004/ReciclaPlus/assets/91471783/f4335bf2-a6c4-4989-b622-106d0edb611e)
+![image](https://github.com/RayAra2004/ReciclaPlus/assets/91471783/cc39b40d-3962-4f06-93b1-d358e811b634)
 
 ### 5. PROTÓTIPOS DO SISTEMA<br>
 Neste ponto a codificação não e necessária, somente as ideias de telas devem ser desenvolvidas. O princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas e/ou descartadas <br>
