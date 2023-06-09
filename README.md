@@ -6,7 +6,7 @@ Trabalho desenvolvido durante a disciplina de Banco de Dados do Integrado
 ### 1. COMPONENTES<br>
 Integrantes do grupo<br>
 Carlos Eduardo Sousa Barbosa: cesbarbosa2005@gmail.com<br>
-Dara Botecchia: dara.botecchia22@gmail.com<br>
+Dara Mendes Botecchia: dara.botecchia22@gmail.com<br>
 Raynan Araujo da Silva: raynan.araujo.ifes@gmail.com<br>
 Kauã Mateus de Barros Terra: kaua271203@gmail.com<br>
 
