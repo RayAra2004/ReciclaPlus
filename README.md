@@ -80,6 +80,17 @@ Link para o sistema web: http://reciclamais.great-site.net/index.html?i=1
 #### 5.3 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM OS SISTEMA WEB/MOBILE PROPOSTOS?
     a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
     b) Crie uma lista com os 5 principais relatórios que poderão ser obtidos por meio do sistema proposto!
+
+- Relatório geral sobre os materiais mais publicados.
+
+- Relatório geral sobre os bairros com mais materiais publicados.
+
+- Relatório geral sobre os bairros com mais pontos de coleta.
+
+- Relatório geral sobre os tipos de materiais reciclados em cada bairro.
+
+- Relatório geral sobre os locais com mais usuários.
+
     
 > A Empresa DevCom precisa inicialmente dos seguintes relatórios:
 * Relatório que informe quais são os gerentes de cada departamento incluindo as seguintes informações: número do departamento,  nome do departamento, e nome do gerente.
