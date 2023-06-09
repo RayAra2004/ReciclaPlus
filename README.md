@@ -125,19 +125,19 @@ ATRIBUTOS DA TABELA CADASTRA: <br>
 data: Armazena a data de cadastro do usuário <br>
 
 
-VALIDA: Campo para validação de cadastro do usuário  
-ATRIBUTOS DO CAMPO VALIDA:
-data: Armazena a data da validação do cadastro
-resposta: Armazena a resposta do cadastro, se o usuário foi aprovado ou não
+VALIDA: Campo para validação de cadastro do usuário  <br>
+ATRIBUTOS DO CAMPO VALIDA:<br>
+data: Armazena a data da validação do cadastro<br>
+resposta: Armazena a resposta do cadastro, se o usuário foi aprovado ou não<br>
 
 
-USUARIO: Tabela que armazena as informações relativas ao usuário
-ATRIBUTOS DA TABELA USUARIO: 
-id: Código do usuário
-login: Informações do login do usuário
-nome: Local em que fica registrado o nome do usuário
-senha: Local onde fica registrado a senha do usuário
-telefone: Local onde fica registrado o telefone do usuário
+USUARIO: Tabela que armazena as informações relativas ao usuário<br>
+ATRIBUTOS DA TABELA USUARIO: <br>
+id: Código do usuário<br>
+login: Informações do login do usuário<br>
+nome: Local em que fica registrado o nome do usuário<br>
+senha: Local onde fica registrado a senha do usuário<br>
+telefone: Local onde fica registrado o telefone do usuário<br>
 
 
 PERTENCE: faz uma ligação entre USUARIO e TIPO_USUARIO
