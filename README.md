@@ -110,9 +110,8 @@ Link para o sistema web: http://reciclamais.great-site.net/index.html?i=1
         Criar o esquema de forma a garantir a redução de informação redundante, possibilidade de valores null, 
         e tuplas falsas (Aplicar os conceitos de normalização abordados).   
         
-
-![conceitual](https://github.com/RayAra2004/ReciclaPlus/assets/91473437/886ab120-2a39-4fe8-a909-b1e3483f949c)
-    
+![conceitual](https://github.com/RayAra2004/ReciclaPlus/assets/91473437/66a16b02-30d9-4755-8f76-57a82c569436)
+   
 #### 7 Descrição dos dados 
     [objeto]: [descrição do objeto]
     
