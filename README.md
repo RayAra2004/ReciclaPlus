@@ -120,7 +120,7 @@ Link para o sistema web: http://reciclamais.great-site.net/index.html?i=1
     [objeto]: [descrição do objeto]
     
    
-CADASTRA:  Campo para realizar cadastro dos usuários 
+CADASTRA:  Campo para realizar cadastro dos usuários <br>
 ATRIBUTOS DA TABELA CADASTRA: <br>
 data: Armazena a data de cadastro do usuário <br>
 
