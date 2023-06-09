@@ -121,8 +121,8 @@ Link para o sistema web: http://reciclamais.great-site.net/index.html?i=1
     
    
 CADASTRA:  Campo para realizar cadastro dos usuários 
-ATRIBUTOS DA TABELA CADASTRA:
-data: Armazena a data de cadastro do usuário
+ATRIBUTOS DA TABELA CADASTRA: <br>
+data: Armazena a data de cadastro do usuário <br>
 
 
 VALIDA: Campo para validação de cadastro do usuário  
