@@ -140,106 +140,106 @@ senha: Local onde fica registrado a senha do usuário<br>
 telefone: Local onde fica registrado o telefone do usuário<br>
 
 
-PERTENCE: faz uma ligação entre USUARIO e TIPO_USUARIO
+PERTENCE: faz uma ligação entre USUARIO e TIPO_USUARIO<br>
 
  
-TIPO_USUARIO: Tabela que armazena informações do tipo de usuário, como por exemplo: USUARIO_PESSOA_FISICA (Pessoa física) e USUARIO_INSTITUIÇÃO (Pessoa jurídica)
-ATRIBUTOS DA TABELA TIPO_USUARIO:
-id: Código do usuário
-desricao: Descrição do usuário, se ele é pessoa física ou pessoa jurídica 
+TIPO_USUARIO: Tabela que armazena informações do tipo de usuário, como por exemplo: USUARIO_PESSOA_FISICA (Pessoa física) e USUARIO_INSTITUIÇÃO (Pessoa jurídica)<br>
+ATRIBUTOS DA TABELA TIPO_USUARIO:<br>
+id: Código do usuário<br>
+desricao: Descrição do usuário, se ele é pessoa física ou pessoa jurídica <br>
 
 
-USUARIO_INSTITUICAO: Tabela onde estão os dados das empresas cadastradas
-ATRIBUTOS DA TEBELA USUARIO_INSTITUICAO:
-cnpj: Armazena o cnpj da empresa
-logo: Armazena a logo da empresa
+USUARIO_INSTITUICAO: Tabela onde estão os dados das empresas cadastradas<br>
+ATRIBUTOS DA TEBELA USUARIO_INSTITUICAO:<br>
+cnpj: Armazena o cnpj da empresa<br>
+logo: Armazena a logo da empresa<br>
 
 
-REALIZA: Faz uma ligação entre USUARIO_INSTITUICAO e TIPO_ASSINATURA
-ATRIBUTOS DO CAMPO REALIZA:
-data_cadastro: Armazena a em que foi realizado o cadastro da instituição
-data_expiracao: Armazena a data em que o cadastro expira 
+REALIZA: Faz uma ligação entre USUARIO_INSTITUICAO e TIPO_ASSINATURA<br>
+ATRIBUTOS DO CAMPO REALIZA:<br>
+data_cadastro: Armazena a em que foi realizado o cadastro da instituição<br>
+data_expiracao: Armazena a data em que o cadastro expira <br>
 
 
-TIPO_ASSINATURA: Tabela onde estão armazenados as informações da assinatura que a empresa cadastrada resolveu comprar
-ATRIBUTOS DA TABELA TIPO_ASSINATURA:
-id: Código da instituição
-nome: Armazena o nome do tipo da assinatura escolhida pela instituição
-descricao: Armazena o tipo de assinatura que a instituição escolheu
-valor: Armazena o valor da assinatura escolhida
+TIPO_ASSINATURA: Tabela onde estão armazenados as informações da assinatura que a empresa cadastrada resolveu comprar<br>
+ATRIBUTOS DA TABELA TIPO_ASSINATURA:<br>
+id: Código da instituição<br>
+nome: Armazena o nome do tipo da assinatura escolhida pela instituição<br>
+descricao: Armazena o tipo de assinatura que a instituição escolheu<br>
+valor: Armazena o valor da assinatura escolhida<br>
 
 
-COLETA: Faz uma ligação entre USUARIO_INSTITUICAO e MATERIAL_RECICLAVEL
+COLETA: Faz uma ligação entre USUARIO_INSTITUICAO e MATERIAL_RECICLAVEL<br>
 
 
 MATERIAL_RECICLAVEL: Nesta tabela estão as informações do material que a pessoa 
-física deseja reciclar 
-ATRIBUTOS DA TABELA MATERIAL_RECICLAVEL:
-id: Código do material reciclável
-coletado: Armazena as informações se o material foi coletado ou não
-descricao: Armazena as informações do material reciclado
-peso_estimado: Armazena as informações do peso do material
+física deseja reciclar <br>
+ATRIBUTOS DA TABELA MATERIAL_RECICLAVEL:<br>
+id: Código do material reciclável<br>
+coletado: Armazena as informações se o material foi coletado ou não<br>
+descricao: Armazena as informações do material reciclado<br>
+peso_estimado: Armazena as informações do peso do material<br>
  
 
-PERTENECE: Liga a tebela MATERIAL_RECICLAVEL e CATEGORIA_DE_MATERIAIS_RECICLADOS
+PERTENECE: Liga a tebela MATERIAL_RECICLAVEL e CATEGORIA_DE_MATERIAIS_RECICLADOS<br>
 
 
-USUARIO_PESSOA_FISICA: Tabela com os dados da pessoa física cadastradas no sistema 
-ATRIBUTO DA TABELA USUARIO_PESSOA_FISICA:
-data_nasimento: Armazena a data de nascimento do usuário
+USUARIO_PESSOA_FISICA: Tabela com os dados da pessoa física cadastradas no sistema <br>
+ATRIBUTO DA TABELA USUARIO_PESSOA_FISICA:<br>
+data_nasimento: Armazena a data de nascimento do usuário<br>
 
-PUBLICA: Liga a tabela USUARIOA_PESSOA_FISICA e MATERIAL_RECICLAVEL
-ATRIBUTOS DO CAMPO PUBLICA:
-latitude: Armazena informações da localização da pessoa
-longitude:  Armazena informações da localização da pessoa
-
-
-PONTO_COLETA: Tabela que armazena os dados dos pontos de coleta cadastrados
-ATRIBUTOS DA TABELA PONTO_COLETA:
-id: Código do ponto de coleta
-imagem: Imagem do ponto de coleta
-nome: Nome do ponto de coleta
+PUBLICA: Liga a tabela USUARIOA_PESSOA_FISICA e MATERIAL_RECICLAVEL<br>
+ATRIBUTOS DO CAMPO PUBLICA:<br>
+latitude: Armazena informações da localização da pessoa<br>
+longitude:  Armazena informações da localização da pessoa<br>
 
 
-POSSUI: Os campos com o nome (possui) estão fazendo ligamento em determinadas tabelas
+PONTO_COLETA: Tabela que armazena os dados dos pontos de coleta cadastrados<br>
+ATRIBUTOS DA TABELA PONTO_COLETA:<br>
+id: Código do ponto de coleta<br>
+imagem: Imagem do ponto de coleta<br>
+nome: Nome do ponto de coleta<br>
+
+
+POSSUI: Os campos com o nome (possui) estão fazendo ligamento em determinadas tabelas<br>
 
 
 
-ENDERECO: Estão armazenados os endereços das empresas cadastradas  
-ATRIBUTOS DA TABELA ENDERECO:
-cep: Armazena informações do cep da instituição
-tipo_logradouro: Armazena o tipo de logradouro da instituição 
-logradouro: Armazena o logradouro da instituição
-estado: Armazena o estado da instituição
-cidade: Armazena a cidade da instituição
-bairro: Armazena o bairro da instituição
-numero: Armazena o número da instituição
-latitude: Armazena informações da localidade da instituição
-longitude:  Armazena informações da localidade da instituição
-id: Código do endereço da instituição
+ENDERECO: Estão armazenados os endereços das empresas cadastradas  <br>
+ATRIBUTOS DA TABELA ENDERECO:<br>
+cep: Armazena informações do cep da instituição<br>
+tipo_logradouro: Armazena o tipo de logradouro da instituição <br>
+logradouro: Armazena o logradouro da instituição<br>
+estado: Armazena o estado da instituição<br>
+cidade: Armazena a cidade da instituição<br>
+bairro: Armazena o bairro da instituição<br>
+numero: Armazena o número da instituição<br>
+latitude: Armazena informações da localidade da instituição<br>
+longitude:  Armazena informações da localidade da instituição<br>
+id: Código do endereço da instituição<br>
 
 
-RECICLA:  Faz uma ligação entre PONTO_COLETA e CATEGORIA_DE_MATERIAIS_RECICLADOS
+RECICLA:  Faz uma ligação entre PONTO_COLETA e CATEGORIA_DE_MATERIAIS_RECICLADOS<br>
 
 
-CATEGORIAS_DE_MATERIAIS_RECICLADOS: Tabela que contém as categorias de materiais reciclados 
-ATRIBUTOS DA TABELA CATEGORIAS_DE_MATERIAIS_RECICLADOS:
-id: Código do material
-descricao: Descrição da categoria do material reciclável
+CATEGORIAS_DE_MATERIAIS_RECICLADOS: Tabela que contém as categorias de materiais reciclados <br>
+ATRIBUTOS DA TABELA CATEGORIAS_DE_MATERIAIS_RECICLADOS:<br>
+id: Código do material<br>
+descricao: Descrição da categoria do material reciclável<br>
 
 
-REALIZA: FAZ UMA LIGAÇÃO ENTRE USUARIOA_PESSOA_FISICA e COMENTARIOS
+REALIZA: FAZ UMA LIGAÇÃO ENTRE USUARIOA_PESSOA_FISICA e COMENTARIOS<br>
 
 
-ASSOCIA_SE: Liga a tabela PONTO_COLETA e COMENTARIOS
+ASSOCIA_SE: Liga a tabela PONTO_COLETA e COMENTARIOS<br>
 
 
-COMENTARIOS: Contém os comentários feitos pelos usuários em relação ao ponto de coleta
-ATRIBUTOS DA TABELA COMENTARIOS:
-data: Data em que foi realizado o comentário
-conteudo: O conteúdo do comentário
-id: Código do comentário
-nota: Nota que o usuário deu para o ponto de coleta
+COMENTARIOS: Contém os comentários feitos pelos usuários em relação ao ponto de coleta<br>
+ATRIBUTOS DA TABELA COMENTARIOS:<br>
+data: Data em que foi realizado o comentário<br>
+conteudo: O conteúdo do comentário<br>
+id: Código do comentário<br>
+nota: Nota que o usuário deu para o ponto de coleta<br>
 
 
 
