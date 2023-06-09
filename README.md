@@ -111,8 +111,7 @@ Link para o sistema web: http://reciclamais.great-site.net/index.html?i=1
         e tuplas falsas (Aplicar os conceitos de normalização abordados).   
         
 
-![modelo_conceitual](https://github.com/RayAra2004/ReciclaPlus/assets/91473437/14482a6c-b8ce-43db-8136-99eb4f6b1b40)
-
+![conceitual](https://github.com/RayAra2004/ReciclaPlus/assets/91473437/886ab120-2a39-4fe8-a909-b1e3483f949c)
     
 #### 7 Descrição dos dados 
     [objeto]: [descrição do objeto]
