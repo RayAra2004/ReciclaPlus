@@ -56,7 +56,7 @@ b) [Link para Relatório/Apresentação de resultados obtidos
 ![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/81b0f1c6-ab0f-4300-8564-ce2890fa805a)<br>
 ![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/8a329548-6cb6-4821-a317-5f0628b77899)<br>
 ![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/899c0dcb-3c93-4913-9009-62b2ea53712a)<br>
-<br>
+
 #### HISTÓRIAS DE USUÁRIO
 ![image](https://github.com/RayAra2004/ReciclaPlus/assets/91471783/39a15b16-4590-4dc2-9510-608ca6f7416d)
 ![image](https://github.com/RayAra2004/ReciclaPlus/assets/91471783/f4335bf2-a6c4-4989-b622-106d0edb611e)
