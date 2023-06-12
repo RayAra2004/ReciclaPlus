@@ -63,7 +63,7 @@ b) [Link para Relatório/Apresentação de resultados obtidos
 ![image](https://github.com/RayAra2004/ReciclaPlus/assets/91471783/cc39b40d-3962-4f06-93b1-d358e811b634)
 
 ### 5. PROTÓTIPOS DO SISTEMA<br>
-Neste ponto a codificação não e necessária, somente as ideias de telas devem ser desenvolvidas. O princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas e/ou descartadas <br>
+<br>
 
 ![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/edada935-f569-497c-b3f0-97237615d24e)
 
@@ -77,8 +77,6 @@ link: https://quant-ux.com/#/test.html?h=a2aa10acVZG0YoT3CXzyCFh4gpuaOy1mZ3QS6ED
 Link para o sistema web: http://reciclamais.great-site.net/index.html?i=1
 
 #### 5.3 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM OS SISTEMA WEB/MOBILE PROPOSTOS?
-    a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
-    b) Crie uma lista com os 5 principais relatórios que poderão ser obtidos por meio do sistema proposto!
 
 - Relatório geral sobre os materiais mais publicados.
 
@@ -89,14 +87,6 @@ Link para o sistema web: http://reciclamais.great-site.net/index.html?i=1
 - Relatório geral sobre os tipos de materiais reciclados em cada bairro.
 
 - Relatório geral sobre os locais com mais usuários.
-
-    
-> A Empresa DevCom precisa inicialmente dos seguintes relatórios:
-* Relatório que informe quais são os gerentes de cada departamento incluindo as seguintes informações: número do departamento,  nome do departamento, e nome do gerente.
-* Relatório de empregados por projeto incluindo as seguintes informações: número do projeto, nome do projeto, rg do empregado, nome do empregado e quantidade de horas de trabalho do empregado alocadas ao projeto.
-* Relatório de empregados com dependentes incluindo as seguintes informações: rg do empregado, nome do empregado, nome do dependente, tipo de relação, data de nascimento do dependente e sexo do dependente.
-* Relatório com a quantidade de empregados por cada departamento incluindo as seguintes informações: nome do departamento, supervisor e quantidade de empregados alocados no departamento.
-* Relatório de supervisores e supervisionados incluindo as seguintes informações: nome do supervisor e nome do supervisionado.
  
  ### 6.MODELO CONCEITUAL<br>
     A) Utilizar a Notação adequada (Preferencialmente utilizar o BR Modelo 3)
