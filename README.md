@@ -89,15 +89,6 @@ Link para o sistema web: http://reciclamais.great-site.net/index.html?i=1
 - Relatório geral sobre os locais com mais usuários.
  
  ### 6.MODELO CONCEITUAL<br>
-    A) Utilizar a Notação adequada (Preferencialmente utilizar o BR Modelo 3)
-    B) O mínimo de entidades do modelo conceitual pare este trabalho será igual a 4.
-        * informe quais são as 3 principais entidades do sistema em densenvolvimento
-      (se houverem mais de 3 entidades, pense na importância da entidade para o sistema)       
-    C) Principais fluxos de informação/entidades do sistema (mínimo 2). <br>Dica: normalmente estes fluxos estão associados as tabelas que conterão maior quantidade de dados 
-    D) Qualidade e Clareza
-        Garantir que a semântica dos atributos seja clara no esquema (nomes coerentes com os dados).
-        Criar o esquema de forma a garantir a redução de informação redundante, possibilidade de valores null, 
-        e tuplas falsas (Aplicar os conceitos de normalização abordados).   
         
 ![conceitual](https://github.com/RayAra2004/ReciclaPlus/assets/91473437/66a16b02-30d9-4755-8f76-57a82c569436)
    
