@@ -40,7 +40,7 @@ b) ![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/40287d4f-
 
 
 #### 3.2. Requisitos funcionais e não funcionais
-<br>
+
 ![funcionais_pt1](https://github.com/RayAra2004/ReciclaPlus/assets/91473437/9f8f96b3-70f0-46bd-8825-b7af5eb9b28d)
 ![funcionais_pt2](https://github.com/RayAra2004/ReciclaPlus/assets/91473437/4482725d-35a7-4994-97ca-35bcfd7aacda)
 ![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/ba5aedb5-9413-465f-9189-8b56b1cc72d2)
