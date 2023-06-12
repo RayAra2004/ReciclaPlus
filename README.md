@@ -1,5 +1,4 @@
-# TRABALHO DE PI:  Recicla +
-Trabalho desenvolvido durante a disciplina de Banco de Dados do Integrado
+# Recicla +
 
 # Sumário
 
