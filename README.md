@@ -93,7 +93,6 @@ Link para o sistema web: http://reciclamais.great-site.net/index.html?i=1
 ![conceitual](https://github.com/RayAra2004/ReciclaPlus/assets/91473437/66a16b02-30d9-4755-8f76-57a82c569436)
    
 #### 7 Descrição dos dados 
-    [objeto]: [descrição do objeto]
     
    
 CADASTRA:  Campo para realizar cadastro dos usuários <br>
