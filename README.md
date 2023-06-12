@@ -31,7 +31,7 @@ seus materiais.
 
 
 
-a) inclusão do PMC desenvolvido pelo grupo <br>
+<br>
 
 #### 3.1. EAP - Estrutura Analítica do Projeto
 a)![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/eacc1511-85ba-4e11-b14b-31bd40d88569)
