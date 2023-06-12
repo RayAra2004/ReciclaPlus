@@ -40,8 +40,7 @@ b) ![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/40287d4f-
 
 
 #### 3.2. Requisitos funcionais e não funcionais
-Incluir informações de: Identificador , Descrição e Prioridade
-Exemplos:<br>
+<br>
 ![funcionais_pt1](https://github.com/RayAra2004/ReciclaPlus/assets/91473437/9f8f96b3-70f0-46bd-8825-b7af5eb9b28d)
 ![funcionais_pt2](https://github.com/RayAra2004/ReciclaPlus/assets/91473437/4482725d-35a7-4994-97ca-35bcfd7aacda)
 ![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/ba5aedb5-9413-465f-9189-8b56b1cc72d2)
@@ -52,13 +51,13 @@ a) [Link do formulário desenvolvido](https://drive.google.com/file/d/1jUiEKDf07
 b) [Link para Relatório/Apresentação de resultados obtidos
 ](https://drive.google.com/file/d/1jUiEKDf0761iWvIaIyuKtdCvYRHQjsuE/view?usp=sharing)
 ### 4.Personas e Histórias de usuário<br>
-a) inclusão dos Persons desenvolvidos pelo grupo<br>
+#### PERSONAS<br>
 <br>
 ![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/81b0f1c6-ab0f-4300-8564-ce2890fa805a)<br>
 ![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/8a329548-6cb6-4821-a317-5f0628b77899)<br>
 ![image](https://github.com/RayAra2004/ReciclaPlus/assets/101998757/899c0dcb-3c93-4913-9009-62b2ea53712a)<br>
 
-b) inclusão das Histórias de usuário desenvolvidas pelo grupo
+#### HISTÓRIAS DE USUÁRIO
 ![image](https://github.com/RayAra2004/ReciclaPlus/assets/91471783/39a15b16-4590-4dc2-9510-608ca6f7416d)
 ![image](https://github.com/RayAra2004/ReciclaPlus/assets/91471783/f4335bf2-a6c4-4989-b622-106d0edb611e)
 ![image](https://github.com/RayAra2004/ReciclaPlus/assets/91471783/cc39b40d-3962-4f06-93b1-d358e811b634)
