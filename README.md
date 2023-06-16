@@ -232,8 +232,8 @@ nota: Nota que o usuário deu para o ponto de coleta<br>
        
 ### 11	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 
-CREATE TABLE USUARIO (
-    Login varchar(90),
+CREATE TABLE USUARIO (<br>
+    Login varchar(90),<br>
     Senha varchar(30),
     ID serial PRIMARY KEY,
     Nome varchar(50),
